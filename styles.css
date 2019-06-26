@@ -1,0 +1,51 @@
+body {
+  background: url("chris-ried-ieic5Tq8YMk-unsplash-filter.jpg");
+  background-size: cover;
+}
+.nav {
+  background-color: #a51c30;
+}
+
+.nav-link {
+   color: white;
+}
+
+#random {
+  margin: 0 auto;
+  padding: 30px;
+}
+
+#content {
+  margin: 0 auto;
+  width: 250px;
+  height: 200px;
+  text-align: center;
+  padding-top: 220px;
+  padding-bottom: 250px;
+  padding-left: 10;
+  padding-right:8;
+}
+
+#welcome_text {
+  color: white;
+}
+
+#link {
+  color: white;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #a51c30;
+    border-color: #a51c30;
+}
+
+.nav-link:hover {
+  background-color: #fff;
+  color: black;
+}
+
+.navbar-brand {
+  height: 12px;
+  width: 12px;
+}
